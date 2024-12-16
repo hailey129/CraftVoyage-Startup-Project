@@ -19,12 +19,12 @@ Promote sustainable development to ensure long-term positive impact.
 Drive economic growth by projecting **$200,000** in annual revenue and increasing household incomes by **20%**.
 
 # 🌟 Key Features
-**Virtual Reality (VR) Concept:**
+**Virtual Reality (VR) Concept (planned for future implementation):**
 * Aims to attract potential tourists with virtual previews of rural attractions in the long-term.
 
 **Sustainability-Focused Framework:**
 
-* Proposed eco-friendly solutions, including waste reduction and energy efficiency.
+* Proposed eco-friendly solutions, including waste reduction and energy efficiency, which are well-aligned with SDG 8, SDG 11, SDG 12, SDG 13, SDG 17.
 * Detailed plans for cultural preservation and community engagement.
 
 **Economic Impact Projections:**
@@ -39,7 +39,7 @@ Drive economic growth by projecting **$200,000** in annual revenue and increasin
 
 # 🛠 Tools Used
 * Business Strategy: Financial modeling, business case development, and sustainability analysis.
-* Design: Figma for VR mockup creation.
+* Design: Figma for VR mockup creation ((planned for future implementation)).
 * Financial Analysis: Excel for projections and budgeting.
 * Data Visualisation: Python and R to analyse data and communicate insights effectively.
 
