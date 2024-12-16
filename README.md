@@ -39,7 +39,7 @@ Drive economic growth by projecting **$200,000** in annual revenue and increasin
 
 # 🛠 Tools Used
 * Business Strategy: Financial modeling, business case development, and sustainability analysis.
-* Design: Figma for VR mockup creation ((planned for future implementation)).
+* Design: Figma for VR mockup creation (planned for future implementation).
 * Financial Analysis: Excel for projections and budgeting.
 * Data Visualisation: Python and R to analyse data and communicate insights effectively.
 
