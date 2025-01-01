@@ -6,7 +6,7 @@ CraftVoyage is a startup idea and proposal aimed at revitalizing sustainable tou
 
 Canva link (slides): [CraftVoyage Pitching slides](https://www.canva.com/design/DAGZccFOP-0/mhvHBhxjwkzHn4sK2MHytA/edit) (including videos)
 
-Canva link (appendix): [CraftVoyage Appendix slides](https://www.canva.com/design/DAGZccFOP-0/mhvHBhxjwkzHn4sK2MHytA/edit](https://www.canva.com/design/DAGZcbty6eI/NuP84l5B7mGq-3DE5kIU_w/edit)) (including videos)
+Canva link (appendix): [CraftVoyage Appendix slides](https://www.canva.com/design/DAGZcbty6eI/NuP84l5B7mGq-3DE5kIU_w/edit) (including videos)
 
 Canva link (case study): [CraftVoyage Case Study slides](https://www.canva.com/design/DAGZcu6QbeA/pftvdxt3HN0wC4YGxRY4Ow/edit) (including videos)
 
