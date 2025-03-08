@@ -1,5 +1,5 @@
 # 🌍 CraftVoyage: Sustainable Tourism Expansion Strategy
-**Leveraging Innovation and Sustainability to Drive Tourism Growth in Vietnam**
+**Leveraging Innovation and Sustainability to drive tourism growth in Vietnam**
 
 # 📌 Project Overview
 CraftVoyage is a startup idea and proposal aimed at revitalizing sustainable tourism in central Vietnam. This initiative combines Virtual Reality (VR), eco-friendly development, and financial strategies to empower rural communities, promote cultural heritage, and drive economic growth.
